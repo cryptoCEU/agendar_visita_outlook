@@ -1,0 +1,8 @@
+{
+  "name": "agendar-visita-outlook",
+  "version": "1.0.0",
+  "dependencies": {
+    "@azure/msal-node": "^2.11.0",
+    "axios": "^1.7.7"
+  }
+}
